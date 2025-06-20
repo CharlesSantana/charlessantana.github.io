@@ -50,10 +50,10 @@ Material complementar disponível na seção de atividades.
 ### Exercícios Práticos
 - [Lista 1 - Conceitos Básicos](exercicios/office/Aula01_Word.txt)
 ### Exercícios Práticos
-- [Lista 2 - Fluxogramas](exercicios/office/Aula01_Word.txt)
+- [Lista 2 - Fluxogramas](exercicios/office/Aula02_Word.txt)
 
 ### Projetos
-- [Calculadora Simples](exercicios/office/Aula01_Word.txt)
+- [Calculadora Simples](exercicios/office/Aula03_Word.txt)
 ### Projetos
 - [Sistema de Login](exercicios/office/Aula01_Word.txt)
 
