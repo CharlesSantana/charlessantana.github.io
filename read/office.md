@@ -2,7 +2,7 @@
 
 ## Cabeçalho
 Título: Aula Pacote Office - Word
-Objetivo: Digitação e Formatação de Textos
+Subtítulo: Digitação e Edição de Textos
 
 ## Conteúdo da Aula
 ## Tema: Digitação e Conhecendo o Teclado
