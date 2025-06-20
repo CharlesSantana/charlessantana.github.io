@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio do Professor</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+   <script src="js/lercurriculo.js"></script>
+    <style>
+        .carousel-caption {
+            background-color: rgba(0, 0, 0, 0.6);
+            border-radius: 10px;
+        }
+        .curriculo {
+            margin-top: 30px;
+            padding: 20px;
+            background-color: #f8f9fa;
+            border-radius: 10px;
+        }
+        .navbar {
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Menu de Navegação -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container">
+            <a class="navbar-brand" href="#">Portfólio do Professor</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="index.html">Página Inicial</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="materiasDropdown" role="button" data-bs-toggle="dropdown">
+                            Matérias
+                        </a>
+                        <ul class="dropdown-menu">
+	                    <li><a class="dropdown-item" href="office.html">Office</a></li>
+			    <li><a class="dropdown-item" href="algoritimo.html">Algoritimo</a></li>
+			    <li><a class="dropdown-item" href="devpython.html">Dev_Python</a></li>
+			    <li><a class="dropdown-item" href="redes.html">Redes_Computadores</a></li>
+                            <li><a class="dropdown-item" href="seguranca.html">Seguranca Cibernetica</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+   <div id="portfolioCarousel" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-indicators">
+        <button type="button" data-bs-target="#portfolioCarousel" data-bs-slide-to="0" class="active"></button>
+        <button type="button" data-bs-target="#portfolioCarousel" data-bs-slide-to="1"></button>
+        <button type="button" data-bs-target="#portfolioCarousel" data-bs-slide-to="2"></button>
+        <button type="button" data-bs-target="#portfolioCarousel" data-bs-slide-to="3"></button>
+    </div>
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="images/01.jpg" class="d-block w-100" alt="Aula Interativa">
+            <div class="carousel-caption d-none d-md-block">
+                <h5>Aulas Interativas</h5>
+                <p>Metodologia de ensino que engaja os alunos através de atividades práticas e discussões.</p>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <img src="images/02.jpg" class="d-block w-100" alt="Projetos Educacionais">
+            <div class="carousel-caption d-none d-md-block">
+                <h5>Projetos Educacionais</h5>
+                <p>Desenvolvimento de projetos que integram teoria e prática no processo de aprendizagem.</p>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <img src="images/03.jpg" class="d-block w-100" alt="Tecnologia na Educação">
+            <div class="carousel-caption d-none d-md-block">
+                <h5>Tecnologia na Educação</h5>
+                <p>Utilização de ferramentas digitais para enriquecer o processo de ensino-aprendizagem.</p>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <img src="images/04.jpg" class="d-block w-100" alt="Formação Continuada">
+            <div class="carousel-caption d-none d-md-block">
+                <h5>Formação Continuada</h5>
+                <p>Compromisso com a atualização constante para oferecer o melhor aos alunos.</p>
+            </div>
+        </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#portfolioCarousel" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon"></span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#portfolioCarousel" data-bs-slide="next">
+        <span class="carousel-control-next-icon"></span>
+    </button>
+</div>
+
+        <!-- Currículo -->
+<div class="curriculo">
+    <h2 class="text-center">Meu Currículo</h2>
+    <div id="curriculoContent">
+        <!-- O conteúdo será carregado dinamicamente aqui -->
+        <div class="text-center">
+            <div class="spinner-border text-primary" role="status">
+                <span class="visually-hidden">Carregando...</span>
+            </div>
+            <p>Carregando currículo...</p>
+        </div>
+    </div>
+</div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        // Script para interatividade
+        document.addEventListener('DOMContentLoaded', function() {
+            // Efeito ao passar o mouse sobre os itens do carrossel
+            const carouselItems = document.querySelectorAll('.carousel-item');
+            carouselItems.forEach(item => {
+                item.addEventListener('mouseover', function() {
+                    this.querySelector('.carousel-caption').style.opacity = '1';
+                });
+                item.addEventListener('mouseout', function() {
+                    this.querySelector('.carousel-caption').style.opacity = '0.8';
+                });
+            });
+        });
+    </script>
+</body>
+</html>

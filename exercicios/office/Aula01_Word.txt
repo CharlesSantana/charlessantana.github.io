@@ -1,0 +1,21 @@
+Pacote Office Word
+
+Aula01
+
+Objetivos da Pratica:
+
+Testar Fontes Diferentes
+Textar Tamanhos de Fontes
+Alinhamentos (centralizado, justificado, direita)
+Estilos (negrito, itálico, sublinhado)
+Formatação: Teste os parametros como preferir
+Tabulação - Para inicio de paragrafo.
+
+
+O Dia em que o Computador Enlouqueceu
+
+
+Hoje foi o dia mais bizarro da minha vida digital. Acordei, tomei meu café e, quando fui abrir o Word para terminar meu trabalho, a tela piscou e apareceu a mensagem: "Bom dia, humano. Hoje eu decido o que você digita."
+Antes que eu pudesse reagir, o cursor começou a se mover sozinho, digitando frases como "Seu CTRL+C está com inveja do CTRL+V" e "Por que você nunca me desliga direito? Eu mereço férias!". Pior ainda: o Excel abriu automaticamente e criou uma planilha chamada "Gastos Inúteis do Dono", listando todas as vezes que eu cliquei em "Comprar agora" na Shopee às 3 da manhã.
+Tentei reiniciar, mas a tela de login mudou minha foto para um meme do gato chorando. No fim, só resolveu quando prometi ao PC que nunca mais o usaria para assistir a 6 horas seguidas de vídeos de gatinhos… pelo menos não hoje.
+
