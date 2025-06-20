@@ -7,6 +7,9 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
    <script src="js/lercurriculo.js"></script>
+   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+   <script src="js/menu.js"></script>
+
     <style>
         .carousel-caption {
             background-color: rgba(0, 0, 0, 0.6);
@@ -24,34 +27,18 @@
     </style>
 </head>
 <body>
-    <!-- Menu de Navegação -->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+      <!-- Menu de Navegação -->
+     <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top">
         <div class="container">
             <a class="navbar-brand" href="#">Portfólio do Professor</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav">
-                    <li class="nav-item">
-                        <a class="nav-link active" href="index.html">Página Inicial</a>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="materiasDropdown" role="button" data-bs-toggle="dropdown">
-                            Matérias
-                        </a>
-                        <ul class="dropdown-menu">
-	                    <li><a class="dropdown-item" href="office.html">Office</a></li>
-			    <li><a class="dropdown-item" href="algoritimo.html">Algoritimo</a></li>
-			    <li><a class="dropdown-item" href="devpython.html">Dev_Python</a></li>
-			    <li><a class="dropdown-item" href="redes.html">Redes_Computadores</a></li>
-                            <li><a class="dropdown-item" href="seguranca.html">Seguranca Cibernetica</a></li>
-                        </ul>
-                    </li>
-                </ul>
-            </div>
+                </div>
         </div>
     </nav>
+
 
    <div id="portfolioCarousel" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-indicators">
@@ -112,7 +99,7 @@
     </div>
 </div>
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    
     <script>
         // Script para interatividade
         document.addEventListener('DOMContentLoaded', function() {

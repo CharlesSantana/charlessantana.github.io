@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -7,9 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Português - Conteúdos e Atividades</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-<script src="js/office.js"></script>
-
     <style>
         .materia-header {
             background-color: #4a6baf;
@@ -76,36 +71,62 @@
         </div>
     </nav>
 
-    
+    <div class="container">
+        <!-- Cabeçalho da Matéria -->
+        <div class="materia-header text-center">
+            <h1>Língua Portuguesa</h1>
+            <p class="lead">Conteúdos, atividades e recursos para aprendizagem</p>
+        </div>
 
+        <!-- Conteúdo da Aula -->
+        <div class="conteudo-aula">
+            <h2>Conteúdo da Aula</h2>
+            <p>Aqui você pode inserir o conteúdo da aula atual. Este espaço é editável e pode conter textos, imagens, vídeos e outros recursos didáticos.</p>
+            
+            <!-- Exemplo de conteúdo -->
+            <div class="alert alert-info">
+                <h4>Tema da Aula: Análise Sintática</h4>
+                <p>Nesta aula, vamos estudar os principais conceitos da análise sintática, incluindo:</p>
+                <ul>
+                    <li>Sujeito e predicado</li>
+                    <li>Tipos de sujeito (determinado, indeterminado, inexistente)</li>
+                    <li>Tipos de predicado (verbal, nominal, verbo-nominal)</li>
+                </ul>
+                <p>Material complementar disponível na seção de atividades.</p>
+            </div>
+        </div>
 
-
-
-
-
-<div class="container">
-
-<!-- Cabeçalho (será preenchido pelo JS) -->
-<div class="materia-header text-center">
-    <h1><!-- Título será inserido aqui --></h1>
-    <p class="lead"><!-- Subtítulo será inserido aqui --></p>
-</div>
-
-
-<!-- Conteúdo da Aula (será preenchido pelo JS) -->
-<div class="conteudo-aula">
-    <!-- Tudo aqui será substituído pelo conteúdo do markdown -->
-</div>
-
-
-        
-<!-- Atividades (será preenchido pelo JS) -->
-<div class="row" id="atividadesContainer">
-    <!-- Cards serão gerados automaticamente aqui -->
-</div>
-
-
-
+        <!-- Atividades -->
+        <h2 class="mb-4">Atividades Disponíveis</h2>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card atividade-card">
+                    <div class="card-body">
+                        <h5 class="card-title">Exercícios de Gramática</h5>
+                        <p class="card-text">Atividades práticas sobre os conteúdos gramaticais trabalhados em aula.</p>
+                        <a href="exercicios/office/Aula01_Word.txt" class="btn btn-primary" onclick="downloadAtividade('gramatica')">Baixar PDF</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card atividade-card">
+                    <div class="card-body">
+                        <h5 class="card-title">Interpretação de Texto</h5>
+                        <p class="card-text">Textos com questões de interpretação e análise linguística.</p>
+                        <a href="exercicios/office/Aula01_Word.txt" class="btn btn-primary" onclick="downloadAtividade('interpretacao')">Baixar PDF</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card atividade-card">
+                    <div class="card-body">
+                        <h5 class="card-title">Produção Textual</h5>
+                        <p class="card-text">Propostas de redação com orientações para desenvolvimento.</p>
+                        <a href="exercicios/office/Aula01_Word.txt" class="btn btn-primary" onclick="downloadAtividade('producao')">Baixar PDF</a>
+                    </div>
+                </div>
+            </div>
+        </div>
 
         <!-- Espaço para Anotações -->
         <div class="mt-5">
