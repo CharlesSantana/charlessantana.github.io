@@ -20,7 +20,7 @@ Subtítulo: Digitação e Edição de Textos
 - Teclas importantes (Enter, Backspace, Delete, Shift, Ctrl, Alt, Espaço).
 - Atividade prática: Digitar um pequeno texto (ex: uma receita ou uma lista).
 
-
+## Conteúdo da Aula
 ## Tema: Digitação e Conhecendo o Teclado
  Familiarizar os alunos com o teclado e a digitação básica.
 
@@ -28,7 +28,7 @@ Subtítulo: Digitação e Edição de Textos
 - Teclas importantes (Enter, Backspace, Delete, Shift, Ctrl, Alt, Espaço).
 - Atividade prática: Digitar um pequeno texto (ex: uma receita ou uma lista).
 
-
+## Conteúdo da Aula
 ## Tema: Digitação e Conhecendo o Teclado
  Familiarizar os alunos com o teclado e a digitação básica.
 
@@ -36,7 +36,7 @@ Subtítulo: Digitação e Edição de Textos
 - Teclas importantes (Enter, Backspace, Delete, Shift, Ctrl, Alt, Espaço).
 - Atividade prática: Digitar um pequeno texto (ex: uma receita ou uma lista).
 
-
+## Conteúdo da Aula
 ## Tema: Digitação e Conhecendo o Teclado
  Familiarizar os alunos com o teclado e a digitação básica.
 
