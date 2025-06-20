@@ -11,7 +11,11 @@ Subtítulo: Digitação e Edição de Textos
 - Partes do teclado (teclas alfanuméricas, teclado numérico, teclas de função, teclas de controle).
 - Teclas importantes (Enter, Backspace, Delete, Shift, Ctrl, Alt, Espaço).
 - Atividade prática: Digitar um pequeno texto (ex: uma receita ou uma lista).
-- 
+
+## Cabeçalho
+Título: Aula Pacote Office - Word
+Subtítulo: Digitação e Edição de Textos 
+
 ## Conteúdo da Aula
 ## Tema: Digitação e Conhecendo o Teclado
  Familiarizar os alunos com o teclado e a digitação básica.
