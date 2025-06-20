@@ -24,6 +24,25 @@
         .navbar {
             margin-bottom: 30px;
         }
+
+.profile-header {
+    background-color: #f8f9fa;
+    padding: 2rem;
+    border-radius: 10px;
+    margin-bottom: 2rem;
+}
+
+.profile-photo {
+    border: 5px solid #fff;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+@media (max-width: 768px) {
+    .profile-photo {
+        width: 150px !important;
+        height: 150px !important;
+    }
+}
     </style>
 </head>
 <body>
@@ -88,6 +107,18 @@
         <!-- Currículo -->
 <div class="curriculo">
     <h2 class="text-center">Meu Currículo</h2>
+
+
+<div class="container mt-5 pt-5">
+    <div class="profile-header text-center">
+        <img src="images/foto.jpg" alt="Foto do Professor" 
+             class="profile-photo img-thumbnail rounded-circle mb-3" 
+             style="width: 150px; height: 150px; object-fit: cover;">
+        <h1>Charles Alves dos Santos Santana</h1>
+        <p class="lead">Educação, Consultoria e Tecnologia</p>
+    </div>
+</div>
+
     <div id="curriculoContent">
         <!-- O conteúdo será carregado dinamicamente aqui -->
         <div class="text-center">
