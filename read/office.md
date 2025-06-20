@@ -4,7 +4,7 @@
 Título: Aula Pacote Office - Word
 Objetivo: Digitação e Formatação de Textos
 
-## Aula 1: Digitação e Conhecendo o Teclado
+## Conteúdo da Aula
 ## Tema: Digitação e Conhecendo o Teclado
  Familiarizar os alunos com o teclado e a digitação básica.
 
@@ -12,7 +12,7 @@ Objetivo: Digitação e Formatação de Textos
 - Teclas importantes (Enter, Backspace, Delete, Shift, Ctrl, Alt, Espaço).
 - Atividade prática: Digitar um pequeno texto (ex: uma receita ou uma lista).
 - 
-## Conteúdo da Aula 01
+
 ## Tema: Digitação e Conhecendo o Teclado
  Familiarizar os alunos com o teclado e a digitação básica.
 
@@ -20,7 +20,7 @@ Objetivo: Digitação e Formatação de Textos
 - Teclas importantes (Enter, Backspace, Delete, Shift, Ctrl, Alt, Espaço).
 - Atividade prática: Digitar um pequeno texto (ex: uma receita ou uma lista).
 
-## Conteúdo da Aula 02
+
 ## Tema: Digitação e Conhecendo o Teclado
  Familiarizar os alunos com o teclado e a digitação básica.
 
@@ -28,7 +28,7 @@ Objetivo: Digitação e Formatação de Textos
 - Teclas importantes (Enter, Backspace, Delete, Shift, Ctrl, Alt, Espaço).
 - Atividade prática: Digitar um pequeno texto (ex: uma receita ou uma lista).
 
-## Conteúdo da Aula 03
+
 ## Tema: Digitação e Conhecendo o Teclado
  Familiarizar os alunos com o teclado e a digitação básica.
 
@@ -36,7 +36,7 @@ Objetivo: Digitação e Formatação de Textos
 - Teclas importantes (Enter, Backspace, Delete, Shift, Ctrl, Alt, Espaço).
 - Atividade prática: Digitar um pequeno texto (ex: uma receita ou uma lista).
 
-## Conteúdo da Aula 04
+
 ## Tema: Digitação e Conhecendo o Teclado
  Familiarizar os alunos com o teclado e a digitação básica.
 
