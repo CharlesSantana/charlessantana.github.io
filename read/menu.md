@@ -5,5 +5,6 @@
     - Dev_Python: devpython.html
     - Redes_Computadores: redes.html
     - Segurança Cibernética: seguranca.html
-- Contatodd: contato.html
-- Sobreas: sobre.html
+    - Introdução Informatica: infobasica.html
+- Contato: contato.html
+- Sobres: sobre.html
