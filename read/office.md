@@ -1,17 +1,48 @@
 # Algoritmos e Programação
 
 ## Cabeçalho
-Título: Lógica de Programação
-Subtítulo: Fundamentos para desenvolvimento de algoritmos
+Título: Aula Pacote Office - Word
+Objetivo: Digitação e Formatação de Textos
 
-## Conteúdo da Aula
-## Tema: Introdução a Algoritmos
-Nesta aula, vamos estudar os conceitos básicos de algoritmos, incluindo:
+## Conteúdo da Aula 01
+## Tema: Digitação e Conhecendo o Teclado
+ Familiarizar os alunos com o teclado e a digitação básica.
 
-- Definição e características de algoritmos
-- Representações (fluxograma, pseudocódigo)
-- Estruturas básicas (sequência, decisão, repetição)
-- Variáveis e tipos de dados
+- Partes do teclado (teclas alfanuméricas, teclado numérico, teclas de função, teclas de controle).
+- Teclas importantes (Enter, Backspace, Delete, Shift, Ctrl, Alt, Espaço).
+- Atividade prática: Digitar um pequeno texto (ex: uma receita ou uma lista).
+- 
+## Conteúdo da Aula 01
+## Tema: Digitação e Conhecendo o Teclado
+ Familiarizar os alunos com o teclado e a digitação básica.
+
+- Partes do teclado (teclas alfanuméricas, teclado numérico, teclas de função, teclas de controle).
+- Teclas importantes (Enter, Backspace, Delete, Shift, Ctrl, Alt, Espaço).
+- Atividade prática: Digitar um pequeno texto (ex: uma receita ou uma lista).
+
+## Conteúdo da Aula 02
+## Tema: Digitação e Conhecendo o Teclado
+ Familiarizar os alunos com o teclado e a digitação básica.
+
+- Partes do teclado (teclas alfanuméricas, teclado numérico, teclas de função, teclas de controle).
+- Teclas importantes (Enter, Backspace, Delete, Shift, Ctrl, Alt, Espaço).
+- Atividade prática: Digitar um pequeno texto (ex: uma receita ou uma lista).
+
+## Conteúdo da Aula 03
+## Tema: Digitação e Conhecendo o Teclado
+ Familiarizar os alunos com o teclado e a digitação básica.
+
+- Partes do teclado (teclas alfanuméricas, teclado numérico, teclas de função, teclas de controle).
+- Teclas importantes (Enter, Backspace, Delete, Shift, Ctrl, Alt, Espaço).
+- Atividade prática: Digitar um pequeno texto (ex: uma receita ou uma lista).
+
+## Conteúdo da Aula 04
+## Tema: Digitação e Conhecendo o Teclado
+ Familiarizar os alunos com o teclado e a digitação básica.
+
+- Partes do teclado (teclas alfanuméricas, teclado numérico, teclas de função, teclas de controle).
+- Teclas importantes (Enter, Backspace, Delete, Shift, Ctrl, Alt, Espaço).
+- Atividade prática: Digitar um pequeno texto (ex: uma receita ou uma lista).
 
 Material complementar disponível na seção de atividades.
 
