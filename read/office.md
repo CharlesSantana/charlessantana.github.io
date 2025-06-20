@@ -4,7 +4,7 @@
 Título: Aula Pacote Office - Word
 Objetivo: Digitação e Formatação de Textos
 
-## Conteúdo da Aula 01
+## Aula 1: Digitação e Conhecendo o Teclado
 ## Tema: Digitação e Conhecendo o Teclado
  Familiarizar os alunos com o teclado e a digitação básica.
 
