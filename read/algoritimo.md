@@ -26,7 +26,7 @@ Material complementar disponível na seção de atividades.
 ### Projetos
 - [Sistema de Login](exercicios/algoritmos/projeto2.pdf)
 
-### Desafios
-- [Desafio Lógico 1](exercicios/algoritmos/desafio1.pdf)
-### Desafios
+### Provas
+- [Avaliação 1](https://forms.gle/vwgfhTLnZ29uJpAx6)
+### Provas
 - [Desafio Lógico 2](exercicios/algoritmos/desafio2.pdf)
