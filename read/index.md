@@ -22,14 +22,17 @@
 - Cert 03
 
 ## Matérias Lecionadas
-- Office
-- Algoritmos
-- Desenvolvimento Python
-- Redes de Computadores
-- Segurança Cibernética
+- Informatica Basica (Turmas Formadas)
+- Office ( Turmar em Formação )
+- Algoritmos ( Turmas em Formação )
+- Desenvolvimento Python ( Turmas em Formação )
+- Redes de Computadores (Turmas Formadas )
+- Bando de Dados ( Turmas em Formação
+- Segurança Cibernética ( Turmas Formadas )
 
 ## Metodologia de Ensino
 - Aulas Interativas
 - Projetos Educacionais
 - Tecnologia na Educação
 - Formação Continuada
+- Sala de Aula Invertida
