@@ -1,0 +1,42 @@
+INSTRUÇÕES:
+
+01-DIGITE O TEXTO
+
+02-FORMATAÇÃO GERAL DO TEXTO
+    Tipo da Fonte : Arial
+    Cor da Fonte : Preta
+    Tamanho da Fonte :  12
+
+03-TITULO DO TEXTO
+    Formatação : Negrito
+    Alinhamento do Texto: Centralizado
+    Dois Espaco entre Titulo e Texto
+
+04-CORPO DO TEXTO
+    Alinhamento do Texto : Justificado   
+    Em cada Paragrafo no inicio necessario tabular
+    Selecionar a lista como marcadores não ordenados
+    
+
+===========================================
+
+
+Centro de Ensino Tecnologico Alvorada ( Arial : 15 : Negrito)
+Nome do Professor: Charles Santana ( Arial : 12 )
+Nome do Aluno(a): ( Arial : 12 )
+Data: ( Arial : 12 )
+Prova de Informatica Basica ( Arial : 12  : negrito : um espaco entrelinhas)
+Prova de Word ( Arial : 12 : negrito : centralizado : um espaco entrelinhas )
+Coisas da Vida 
+A sabedoria não se encontra no topo de nenhuma montanha nem no ultimo ano de um curso superior. E num pequeno monte de areia do recreio do jardim de infancia que se pode aprender tudo o que é necessario na vida:
+partilhar
+respeitar as regras do jogo
+não bater em ninguem guardar as coisas nos sítios onde estavam
+manter tudo sempre limpo
+nao mexer nas coisas dos outros
+pedir desculpa quando se magoa alguem
+viver uma vida equilibrada: estudar, pensar, desenhar, pintar, cantar, dancar, brincar, trabalhar, fazer de tudo um pouco, todos os dias.
+
+
+Robert Fulghum
+
