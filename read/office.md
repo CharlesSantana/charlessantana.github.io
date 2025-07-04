@@ -61,7 +61,7 @@ Material complementar disponível na seção de atividades.
 ### Projetos
 - [Sistema de Login](exercicios/office/Aula01_Word.txt)
 
-### Desafios
-- [Desafio Lógico 1](exercicios/office/Aula01_Word.txt)
+### Prova Pratica
+- [Desafio Lógico 1](exercicios/office/Prova01_Word.txt)
 ### Desafios
 - [Desafio Lógico 2](exercicios/office/Aula01_Word.txt)
